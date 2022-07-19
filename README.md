@@ -1,8 +1,8 @@
 # Lionel Fastrack Double O.X. with Siding
 
-Custom layout design for a 10' 3" x 8' table. Request was for one main line and owner had a 22 and 90 degree crossover. Minimum 036 curves used and layout design was created with Lionel Command Switches.
-
 ![preview](./preview.png)
+
+Custom layout design for a 10' 3" x 8' table. Request was for one main line and owner had a 22 and 90 degree crossover. Minimum 036 curves used and layout design was created with Lionel Command Switches.
 
 ## Parts List
 
